@@ -47,10 +47,10 @@ h2 {
 }
 
 .social {
-    margin: 16px 0;
+    margin: 12px 0;
     display: flex;
     flex-direction: row;
-    gap: 16px;
+    gap: 12px;
 }
 
 .social a {
@@ -60,4 +60,8 @@ h2 {
 
 .social a, .social a:link, .social a:visited, .social a:hover {
     color: #000;
+}
+
+.social-icon {
+    height: 18px;
 }
